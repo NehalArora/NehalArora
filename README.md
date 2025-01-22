@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NehalArora
-- 🌱 I’m currently learning DSA in C++
+- 🌱 I’m currently learning DSA in Java, Machine Learning, Development
 - 📫 How to reach me nehalarora235@gmail.com
 
 <!---
