@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NehalArora
-- 🌱 I’m currently learning DSA in Cpp, Machine Learning, Development
+- 🌱 I’m currently learning DSA and Spring Boot
 - 📫 How to reach me nehalarora235@gmail.com
+  
 
 <!---
 NehalArora/NehalArora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
